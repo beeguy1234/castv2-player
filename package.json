@@ -9,7 +9,7 @@
     "array-find": "^1.0.0",
     "castv2-client": "beeguy1234/node-castv2-client",
     "dev-null": "^0.1.1",
-    "icy": "^2.1.0",
+    "icy": "mo-g/ecma-iceclient",
     "mime-types": "^2.1.35",
     "multicast-dns": "^7.2.5",
     "playlist-parser": "0.0.12",
